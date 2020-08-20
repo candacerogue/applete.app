@@ -1,8 +1,5 @@
 <?php
 
-$api_key = 'b49477ec7ba42a39e60fbda338f2875f-us17';
-$audience_id = '8da64b6e1c';
-
 namespace DrewM\MailChimp;
 
 /**
