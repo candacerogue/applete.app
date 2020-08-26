@@ -645,7 +645,7 @@ p {
 }
 
 .video-player a:hover {
-    background-color: rgb(201, 5, 5)
+    background-color: rgb(201, 5, 5);
     color: #fff;
 }
 

@@ -1,8 +1,8 @@
 <?php
 
 	// Put your MailChimp API and audience ID here
-	$api_key = 'fdd0ac155fa51ee394c1840ed6d0a2fc-us17';
-	$audience_id = 'd38700636c';
+	$api_key = getenv('api_key');
+	$audience_id = getenv('audience_id');
 
 	// Let's start by including the MailChimp API wrapper
 	include('./inc/MailChimp.php');
